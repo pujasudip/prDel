@@ -1,0 +1,12 @@
+.btnHome {
+    float: right;
+}
+.btnProfile {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.userName:hover {
+    cursor: pointer;
+    background-color: rgba(226, 226, 226, 0.57);
+}
